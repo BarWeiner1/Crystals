@@ -19,5 +19,5 @@ miller_arrays = my_file.as_miller_arrays()
 #i_obs = miller_arrays[0]
 
 for i in range(len(miller_arrays)):
-    print(miller_arrays[i])
+    print(miller_arrays[i].show_summary())
 
