@@ -18,7 +18,7 @@ my_file = any_reflection_file("6f0o-sf.cif")
 miller_arrays = my_file.as_miller_arrays()
 #i_obs = miller_arrays[0]
 
-for i in miller_arrays:
+for i in miller_arrays[0]:
     for m in i:
         print m
-    print("----------")
+    print("--------------------")

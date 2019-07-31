@@ -11,14 +11,14 @@ import sys
 
 def run(args):
   if (len(args) == 0): args = ["--help"]
-d_min = 1
+d_min = 2
 pdb_inp = iotbx.pdb.input("6f0o.pdb")
 xray_structure = pdb_inp.xray_structure_simple()
-xray_structure.show_summary()
 print("d_min:", d_min)
 f_calc = xray_structure.structure_factors(d_min=d_min).f_calc()
-f_calc.show_summary()
 fft_map = f_calc.fft_map()
+coeffs= fft_map.map_coefficients
+print(coeffs)
 n = fft_map.n_real()
 print("unit cell gridding:", n)
 fft_map.as_xplor_map(file_name="unit_cell.map")

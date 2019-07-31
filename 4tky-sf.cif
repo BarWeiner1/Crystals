@@ -1,0 +1,88 @@
+data_r4tkysf
+#
+_audit.revision_id     1_0
+_audit.creation_date   2015-01-14
+_audit.update_record   "Initial release"
+#
+_cell.entry_id      4tky
+_cell.length_a      59.9590
+_cell.length_b      62.5330
+_cell.length_c      67.2600
+_cell.angle_alpha   99.5540
+_cell.angle_beta    103.7950
+_cell.angle_gamma   113.9950
+#
+_diffrn.id                  1
+_diffrn.crystal_id          1
+_diffrn.ambient_temp        ?
+_diffrn.crystal_treatment   ?
+_diffrn.details             ?
+#
+_diffrn_radiation_wavelength.id           1
+_diffrn_radiation_wavelength.wavelength   0.95370
+#
+_diffrn_reflns.diffrn_id         1
+_diffrn_reflns.pdbx_d_res_high   2.497
+_diffrn_reflns.pdbx_d_res_low    62.385
+_diffrn_reflns.limit_h_max       23
+_diffrn_reflns.limit_h_min       -24
+_diffrn_reflns.limit_k_max       24
+_diffrn_reflns.limit_k_min       -25
+_diffrn_reflns.limit_l_max       26
+_diffrn_reflns.limit_l_min       0
+_diffrn_reflns.number            28730
+_diffrn_reflns.pdbx_number_obs   28146
+#
+_entry.id   4tky
+#
+_exptl_crystal.id   1
+#
+_reflns_scale.group_code   1
+#
+_symmetry.entry_id               4tky
+_symmetry.space_group_name_H-M   "P 1"
+_symmetry.Int_Tables_number      1
+#
+_symmetry_equiv.id           1
+_symmetry_equiv.pos_as_xyz   "X,  Y,  Z"
+#
+loop_
+_refln.crystal_id
+_refln.wavelength_id
+_refln.scale_group_code
+_refln.index_h
+_refln.index_k
+_refln.index_l
+_refln.status
+_refln.F_meas_au
+_refln.F_meas_sigma_au
+_refln.intensity_meas
+_refln.intensity_sigma
+_refln.pdbx_I_plus
+_refln.pdbx_I_plus_sigma
+_refln.pdbx_I_minus
+_refln.pdbx_I_minus_sigma
+_refln.pdbx_F_plus
+_refln.pdbx_F_plus_sigma
+_refln.pdbx_F_minus
+_refln.pdbx_F_minus_sigma
+_refln.pdbx_anom_difference
+_refln.pdbx_anom_difference_sigma
+1 1 1 -24 10  6  o 57.445  28.383 -61.3798  33.005 0.0000    0.0000 -61.3798  33.005  ?       ?      57.445  28.383 0.000000       28.38332
+1 1 1 -24 10  7  o 154.184 41.560 85.676    36.298 0.0000    0.0000 85.676    36.298  ?       ?      154.184 41.560 0.000000       41.55990
+1 1 1 -24 11  6  o 74.247  36.658 -86.1396  54.702 0.0000    0.0000 -86.1396  54.702  ?       ?      74.247  36.658 0.000000       36.65816
+1 1 1 -23 4   5  o 60.239  27.534 -8.2101   20.535 -21.3193  30.585 2.5495    27.709  67.145  31.656 76.372  33.653 -9.227425      46.20178
+1 1 1 -23 4   6  o 180.084 21.295 97.606    20.829 93.348    29.837 101.655   29.091  166.925 33.437 176.599 30.865 -9.674362      45.50441
+1 1 1 -23 4   7  o 179.904 21.649 98.041    21.139 87.130    29.213 110.033   30.628  159.930 34.024 182.734 31.392 -22.80339      46.29369
+1 1 1 -23 4   8  o 109.638 33.351 41.623    22.058 41.504    31.700 41.735    30.713  107.644 39.941 107.880 39.436 -0.2361374     56.12946
+1 1 1 -23 4   9  o 228.229 17.834 154.258   22.365 148.545   31.856 159.812   31.407  214.956 27.377 224.835 25.680 -9.878662      37.53666
+1 1 1 -23 4   10 o 82.041  32.829 18.885    22.612 48.310    32.142 -9.9521   31.819  111.233 40.391 71.201  33.152 40.03198       52.25402
+1 1 1 -23 4   11 o 63.197  29.258 -8.1608   24.250 -16.2238  34.303 -0.1057   34.286  70.030  33.168 77.005  35.338 -6.975037      48.46584
+1 1 1 -23 5   3  o 81.119  33.187 12.874    23.699 -51.7702  45.279 37.266    27.813  73.755  35.749 107.282 37.734 -33.52667      51.97910
+1 1 1 -23 5   4  o 88.299  31.352 23.160    19.245 39.299    27.068 6.6617    27.367  109.067 37.282 79.721  34.300 29.34661       50.66063
+1 1 1 -23 5   5  o 164.522 32.205 88.073    28.297 88.073    28.297 0.0000    0.0000  164.522 32.205 ?       ?      0.000000       32.20518
+1 1 1 -23 5   6  o 105.685 32.061 36.779    20.405 65.108    29.107 9.4054    28.613  136.760 37.365 82.242  35.220 54.51837       51.34791
+1 1 1 -23 5   7  o 131.860 29.249 56.378    20.803 59.294    29.655 53.553    29.191  128.914 38.549 122.693 38.548 6.220871       54.51594
+1 1 1 -23 5   8  o 209.128 19.290 129.774   22.092 108.578   31.837 149.461   30.682  180.162 33.124 219.079 25.778 -38.91629      41.97329
+1 1 1 -23 5   9  o 151.764 28.229 74.655    22.856 55.634    32.717 92.786    31.943  121.163 40.991 162.005 36.476 -40.84144      54.87055
+1 1 1 -23 5   10 o 151.202 29.071 75.568    23.462 60.052    33.432 90.625    32.935  123.596 41.439 156.686 38.277 -33.09022      56.41191

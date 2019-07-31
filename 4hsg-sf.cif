@@ -1,0 +1,109 @@
+data_r4hsgsf
+#
+_audit.revision_id    1_0
+_audit.creation_date  2012-12-05
+_audit.update_record   'Initial release'
+#
+_cell.entry_id      4hsg
+_cell.length_a      70.6990
+_cell.length_b      70.6990
+_cell.length_c      172.9460
+_cell.angle_alpha   90.0000
+_cell.angle_beta    90.0000
+_cell.angle_gamma   90.0000
+#
+_diffrn.id                  1
+_diffrn.crystal_id          1
+_diffrn.ambient_temp        ?
+_diffrn.crystal_treatment   ?
+_diffrn.details             ?
+#
+_diffrn_radiation_wavelength.id           1
+_diffrn_radiation_wavelength.wavelength   0.97926
+#
+_diffrn_reflns.diffrn_id         1
+_diffrn_reflns.pdbx_d_res_high   2.300
+_diffrn_reflns.pdbx_d_res_low    65.442
+_diffrn_reflns.limit_h_max       30
+_diffrn_reflns.limit_h_min       0
+_diffrn_reflns.limit_k_max       21
+_diffrn_reflns.limit_k_min       0
+_diffrn_reflns.limit_l_max       75
+_diffrn_reflns.limit_l_min       0
+_diffrn_reflns.number            20304
+_diffrn_reflns.pdbx_number_obs   20291
+#
+_entry.id   4hsg
+#
+_exptl_crystal.id   1
+#
+_reflns_scale.group_code   1
+#
+_symmetry.entry_id               4hsg
+_symmetry.space_group_name_H-M   'P 43 21 2'
+_symmetry.Int_Tables_number      96
+#
+loop_
+_symmetry_equiv.id
+_symmetry_equiv.pos_as_xyz
+1 'X,  Y,  Z'
+2 '-Y+1/2,  X+1/2,  Z+3/4'
+3 'Y,  X,  -Z'
+4 '-Y,  -X,  -Z+1/2'
+5 'X+1/2,  -Y+1/2,  -Z+1/4'
+6 '-X+1/2,  Y+1/2,  -Z+3/4'
+7 'Y+1/2,  -X+1/2,  Z+1/4'
+8 '-X,  -Y,  Z+1/2'
+#
+#
+loop_
+_refln.crystal_id
+_refln.wavelength_id
+_refln.scale_group_code
+_refln.index_h
+_refln.index_k
+_refln.index_l
+_refln.status
+_refln.F_meas_au
+_refln.F_meas_sigma_au
+_refln.intensity_meas
+_refln.intensity_sigma
+_refln.pdbx_I_plus
+_refln.pdbx_I_plus_sigma
+_refln.pdbx_I_minus
+_refln.pdbx_I_minus_sigma
+_refln.pdbx_F_plus
+_refln.pdbx_F_plus_sigma
+_refln.pdbx_F_minus
+_refln.pdbx_F_minus_sigma
+_refln.pdbx_anom_difference
+_refln.pdbx_anom_difference_sigma
+1 1 1    0    0    4 x        ?      ?         ?        ?          ?        ?          ?        ?          ?        ?          ?          ?       ?       ?
+1 1 1    0    0    8 x        ?      ?         ?        ?          ?        ?          ?        ?          ?        ?          ?          ?       ?       ?
+1 1 1    0    0   12 x        ?      ?         ?        ?          ?        ?          ?        ?          ?        ?          ?          ?       ?       ?
+1 1 1    0    0   16 x        ?      ?         ?        ?          ?        ?          ?        ?          ?        ?          ?          ?       ?       ?
+1 1 1    0    0   20 x        ?      ?         ?        ?          ?        ?          ?        ?          ?        ?          ?          ?       ?       ?
+1 1 1    0    0   24 x        ?      ?         ?        ?          ?        ?          ?        ?          ?        ?          ?          ?       ?       ?
+1 1 1    0    0   28 x        ?      ?         ?        ?          ?        ?          ?        ?          ?        ?          ?          ?       ?       ?
+1 1 1    0    0   32 o    437.8   11.7  172.3000   9.2000   172.3000   9.2000   172.3000   9.2000      437.8     11.7      437.8       11.7     0.0     0.0
+1 1 1    0    0   36 o   2161.4   36.8 4207.7998 142.6000  4207.7998 142.6000  4207.7998 142.6000     2161.4     36.8     2161.4       36.8     0.0     0.0
+1 1 1    0    0   40 o   1204.7   23.0 1304.8000  49.6000  1304.8000  49.6000  1304.8000  49.6000     1204.7     23.0     1204.7       23.0     0.0     0.0
+1 1 1    0    0   44 o    205.2   13.7   38.3000   5.0000    38.3000   5.0000    38.3000   5.0000      205.2     13.7      205.2       13.7     0.0     0.0
+1 1 1    0    0   48 o    348.4   13.0  109.4000   8.1000   109.4000   8.1000   109.4000   8.1000      348.4     13.0      348.4       13.0     0.0     0.0
+1 1 1    0    0   52 o    694.2   16.9  433.7000  21.0000   433.7000  21.0000   433.7000  21.0000      694.2     16.9      694.2       16.9     0.0     0.0
+1 1 1    0    0   56 o    279.5   13.4   70.7000   6.7000    70.7000   6.7000    70.7000   6.7000      279.5     13.4      279.5       13.4     0.0     0.0
+1 1 1    0    0   60 o     65.6   28.2    1.1000   4.7000     1.1000   4.7000     1.1000   4.7000       65.6     28.2       65.6       28.2     0.0     0.0
+1 1 1    0    0   64 o    229.8   14.4   48.2000   5.9000    48.2000   5.9000    48.2000   5.9000      229.8     14.4      229.8       14.4     0.0     0.0
+1 1 1    0    0   68 o    236.9   14.7   51.4000   6.2000    51.4000   6.2000    51.4000   6.2000      236.9     14.7      236.9       14.7     0.0     0.0
+1 1 1    0    0   72 o     68.3   29.2    1.6000   5.0000     1.6000   5.0000     1.6000   5.0000       68.3     29.2       68.3       29.2     0.0     0.0
+1 1 1    1    0    1 x        ?      ?         ?        ?          ?        ?          ?        ?          ?        ?          ?          ?       ?       ?
+1 1 1    1    0    2 x        ?      ?         ?        ?          ?        ?          ?        ?          ?        ?          ?          ?       ?       ?
+1 1 1    1    0    3 x        ?      ?         ?        ?          ?        ?          ?        ?          ?        ?          ?          ?       ?       ?
+1 1 1    1    0    4 o      8.8    4.0    0.0000   0.1000     0.0000   0.1000     0.0000   0.1000        8.8      4.0        8.8        4.0     0.0     0.0
+1 1 1    1    0    5 o      0.0    3.7    0.9000   0.2000     0.9000   0.2000     0.9000   0.2000        0.0      3.7        0.0        3.7     0.0     0.0
+1 1 1    1    0    6 o    475.7    5.4  203.0000   4.6000   203.0000   4.6000   203.0000   4.6000      475.7      5.4      475.7        5.4     0.0     0.0
+1 1 1    1    0    7 o    226.2    2.7   45.9000   1.1000    45.9000   1.1000    45.9000   1.1000      226.2      2.7      226.2        2.7     0.0     0.0
+1 1 1    1    0    8 o     96.1    2.3    8.3000   0.4000     8.3000   0.4000     8.3000   0.4000       96.1      2.3       96.1        2.3     0.0     0.0
+1 1 1    1    0    9 o    258.4    3.0   59.9000   1.4000    59.9000   1.4000    59.9000   1.4000      258.4      3.0      258.4        3.0     0.0     0.0
+1 1 1    1    0   10 o    107.6    2.6   10.4000   0.5000    10.4000   0.5000    10.4000   0.5000      107.6      2.6      107.6        2.6     0.0     0.0
+1 1 1    1    0   11 o    563.4    6.2  284.8000   6.3000   284.8000   6.3000   284.8000   6.3000      563.4      6.2      563.4        6.2     0.0     0.0
